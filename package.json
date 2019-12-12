@@ -72,7 +72,7 @@
     "ws": "^7.1.0"
   },
   "dependencies": {
-    "http-proxy": "^1.17.0",
+    "http-proxy": "git+ssh://git@github.com/LiranBri/node-http-proxy.git",
     "is-glob": "^4.0.1",
     "lodash": "^4.17.14",
     "micromatch": "^4.0.2"
